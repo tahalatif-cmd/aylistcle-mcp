@@ -1,0 +1,11 @@
+{
+  "name": "aylistcle",
+  "version": "1.1.0",
+  "description": "AY Listicle for Gemini CLI: find listicles with open spots, request editorial inclusion, propose swaps and answer requests. Credits only move after you confirm a preview.",
+  "mcpServers": {
+    "aylistcle": {
+      "httpUrl": "https://www.aylistcle.com/api/mcp/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

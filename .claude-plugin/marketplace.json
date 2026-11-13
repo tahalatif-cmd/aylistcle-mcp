@@ -1,0 +1,18 @@
+{
+  "name": "aylistcle",
+  "owner": {
+    "name": "AY Automate LLC",
+    "email": "team@aylistcle.com",
+    "url": "https://www.aylistcle.com"
+  },
+  "description": "AY Listicle for Claude Code: find listicles, request editorial inclusion and answer requests.",
+  "plugins": [
+    {
+      "name": "aylistcle",
+      "source": "./",
+      "description": "Find listicles with open spots, request editorial inclusion, propose swaps and answer requests on AY Listicle.",
+      "category": "marketing",
+      "tags": ["mcp", "listicles", "editorial-inclusion"]
+    }
+  ]
+}

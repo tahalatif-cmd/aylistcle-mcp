@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tahalatif-cmd/aylistcle-mcp",
+  "title": "AY Listicle",
+  "description": "Find listicles with open spots, request a spot, propose swaps and answer requests on AY Listicle.",
+  "version": "1.1.0",
+  "websiteUrl": "https://www.aylistcle.com/mcp",
+  "repository": {
+    "url": "https://github.com/tahalatif-cmd/aylistcle-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.aylistcle.com/api/mcp/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Optional. Most apps sign in with OAuth and need no header. For apps that cannot, send a personal token as \"Bearer ayl_...\". Make one in AY Listicle Settings, under AI assistants (MCP).",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
