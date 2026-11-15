@@ -174,3 +174,19 @@ Skipped on purpose: package registries and SDKs, browser extensions, automation-
 - Smithery's current state (conflicting sources, see C6) and whether claude-plugins.dev, skills.sh and the Gemini gallery index from a brand new repo.
 - The submit URLs for MCP Pub, Infrabase.ai and AI Agents Directory are the home pages from the plan, not confirmed form addresses.
 - Whether mcp.so, MCP Server Spot and MCP Collection need sign-in (the plan marks them no-login).
+
+## Web form round, 2026-11-15
+| Place | Result |
+|---|---|
+| mcpservers.org | Submitted, free (review within 2 weeks). Remote URL + OAuth set |
+| mcp.directory | Submitted (review within 24 hours) |
+| MCP Server Spot | Submitted |
+| MCP Collection | Submitted (endpoint handshake passed) |
+| MCP Market | Already in their free queue (auto-discovered) |
+| MCP Server Hub | Submitted (Tally form) |
+| AISO Tools | Live (free, nofollow) |
+| Infrabase.ai | Submitted |
+| mcp.so | Skipped: remote-server listing is paid only ($39). Needs Taha's decision |
+| MCP Pub | Skipped: site down |
+| TechPluto | Skipped: free form removed, paid reviews only |
+| AI Agents Directory | Needs sign-in (moved to group B) |
