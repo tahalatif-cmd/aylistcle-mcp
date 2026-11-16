@@ -1,0 +1,16 @@
+{
+  "name": "aylistcle",
+  "version": "1.1.0",
+  "description": "Find listicles with open spots, request editorial inclusion, propose swaps and answer requests on AY Listicle. Credits only move after you confirm a preview.",
+  "author": {
+    "name": "AY Automate LLC",
+    "email": "team@aylistcle.com",
+    "url": "https://www.aylistcle.com"
+  },
+  "homepage": "https://www.aylistcle.com/mcp",
+  "repository": "https://github.com/tahalatif-cmd/aylistcle-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "listicles", "editorial-inclusion", "swaps", "content-marketing"],
+  "icon": "./logo-512.png",
+  "privacyPolicyUrl": "https://www.aylistcle.com/privacy"
+}
